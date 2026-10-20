@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ .de{
+    display: flex;
+    gap: 300px;
+    justify-content: space-between;
+    justify-content: center;
+    background-color: black;
+    color: white;
+ }
+
+.fr{
+    display: flex;
+    justify-content: center;
+}
+
+.ss{
+    display: flex;
+    justify-content: center;
+}
+
+.lo{
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 70px;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.ff{
+    background-color: black;
+}
